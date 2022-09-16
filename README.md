@@ -13,6 +13,6 @@ Previously, I have interned at Meta as an Enterprise Software Engineer Intern. I
 - 🥸 [copycat](https://github.com/christopherlim98/copycat) source-code plagiarism detector (personal proj)
 - 🍿 [react-movie-battle](https://vibrant-volhard-03dc6a.netlify.app/) I love movies (personal proj)
 
-In my free time, I love [building fun stuff at hackathons](https://techtris.xyz/) with my tetris-loving group of friends. 🥳
+In my free time, I love [building fun stuff at hackathons](https://teamtechtris.github.io/) with my tetris-loving group of friends. 🥳
 
 Feel free to check out my [resume](https://christopherlim98.github.io/resume)!

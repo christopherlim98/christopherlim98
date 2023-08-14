@@ -2,7 +2,7 @@
 
 I'm an aspiring software engineer. Currently pursuing Master of Computational Data Science with a concentration in Computer Systems at Carnegie Mellon University. 
 
-Previously, I have interned at Meta as an Enterprise Software Engineer Intern. I have also built tech for public good at [Open Government Products, GovTech Singapore](https://www.open.gov.sg/) as an intern.
+I have previously interned at Palantir Technologies and Meta. I have also built tech for public good at [Open Government Products, GovTech Singapore](https://www.open.gov.sg/).
 
 ##### Some cool products that I have worked on
 

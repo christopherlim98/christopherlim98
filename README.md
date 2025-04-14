@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring software engineer. Currently pursuing Master of Computational Data Science with a concentration in Computer Systems at Carnegie Mellon University. 
-
-I have previously interned at Palantir Technologies and Meta. I have also built tech for public good at [Open Government Products, GovTech Singapore](https://www.open.gov.sg/).
+I have experience working on high-impact problems for public sector @Palantir Technologies, @Open Government Products (GovTech Singapore) and big tech @Meta. Some topics that I geek out on are: computer systems, public interest technologies and elegant product design.
 
 ##### Some cool products that I have worked on
 
@@ -15,5 +13,3 @@ I have previously interned at Palantir Technologies and Meta. I have also built 
 - 🍿 [react-movie-battle](https://vibrant-volhard-03dc6a.netlify.app/) I love movies (personal proj)
 
 In my free time, I love [building fun stuff at hackathons](https://teamtechtris.github.io/) with my tetris-loving group of friends. 🥳
-
-Feel free to check out my [resume](https://christopherlim98.github.io/resume)!
